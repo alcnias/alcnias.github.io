@@ -75,7 +75,8 @@ h4 {
 </div>
 
 <div class="topnav">
-    <a class="active" href="index.html">Problem</a>
+    <a href="index.html">Problem</a>
+    <a class="active" href="blog.md">Blog</a>
 </div>
 
 <div class="content">
